@@ -1,2 +1,2 @@
-# deepclone
-package for deep copying of objects in golang
+# clone-go
+package for deep/shallow copying of objects in golang.
